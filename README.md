@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Texture Packs Klasse8b.ploudos.me
 
-You can use the [editor on GitHub](https://github.com/Nitropenda/Nitropenda.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, hier kannst du immer die aktuelle Version des Minecraft texture Packs für unseren Server heruneteraden!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
