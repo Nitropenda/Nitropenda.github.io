@@ -9,8 +9,8 @@ Texture Pack by Nitropenda
 
 Downloads:
 
-[Click to here download virus](https://google.com).
-[Click to here download your face](https://youtube.com).
-[Click to here download your face](https://youtube.com).
+[Click here here download virus](https://google.com).
+[Click here here download your face](https://youtube.com).
+[Click here to download your face](https://youtube.com).
 [Download Texture Pack v1.1](https://youtube.com).
 [Donwload Texture Pack v1.2](https://youtube.com).
