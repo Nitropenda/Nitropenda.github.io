@@ -1,6 +1,6 @@
 ## Texture Packs Klasse8b.ploudos.me
 
-Hi, hier kannst du immer die aktuelle Version des Minecraft texture Packs für unseren Server herneteraden!
+Hi, hier kannst du immer die aktuelle Version des Minecraft texture Packs für unseren Minecraft Server herunteraden!
 
 Um das Texture Pack herunterzuladen, wähle die Version, die du herunterladen möchtest und klicke darauf. Beachte, für das Nutzen des Packs wird Optifine benötigt!
 
