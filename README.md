@@ -17,6 +17,6 @@ Download Texture Pack:
 
 Download Optifine:
 
-[Donwload Optifine for Minecraft](https://optifine.net/downloads)
+[Download Optifine for Minecraft](https://optifine.net/downloads)
 [Download Lunar-Client](https://www.lunarclient.com/download/)
 
