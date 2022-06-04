@@ -10,7 +10,7 @@ Texture Packs by Nitropenda
 Download Texture Pack:
 
 [Texture Pack v2.3.1]()     
-[Texture Pack v2.3.0](Nitropenda.github.io/Klasse8b-V2.3.0)                         
+[Texture Pack v2.3.0](https://nitropenda.github.io/Klasse8b-V2.3.0/)                         
 [Texture Pack v2.2.0]()                          
 [Texture Pack v2.1.0]()                         
                         
