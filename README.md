@@ -5,7 +5,7 @@ Hi, hier kannst du immer die aktuelle Version des Minecraft Texture Packs für u
 Um das Texture Pack herunterzuladen, wähle die Version, die du herunterladen möchtest und klicke darauf. Beachte, für das Nutzen des Packs wird Optifine benötigt!
 
 
-Texture Packs by Nitropenda
+Texture Pack by Nitropenda
 
 Download Texture Pack:     
 
