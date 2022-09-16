@@ -11,7 +11,7 @@ Texture Pack by Nitropenda
          
 [Texture Pack v2.3.0](https://nitropenda.github.io/Klasse8b-V2.3.0/)      
 [Texture Pack v2.3.1](https://nitropenda.github.io/Klasse8b-V2.3.1/)                                            
-[Texture Pack v2.3.1](https://nitropenda.github.io/Klasse8b-V2.3.2/)                          
+[Texture Pack v2.3.2](https://nitropenda.github.io/Klasse8b-V2.3.2/)                               
                                                                                  
 ## Download Optifine:                                                  
 
